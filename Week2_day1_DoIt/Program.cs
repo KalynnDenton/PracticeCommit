@@ -10,14 +10,14 @@ namespace Week2_day1_DoIt
     {
         static void Main(string[] args)
         {
-            string[] vacaSpots = { "Hawaii", "Narita-sen", "Orlando", "Kyoto", "Hakone", "Osaka", "Kamaura", "Yokohama", "Ishigaki", "Shikoku" };
+            string[] vacaSpots = { "Hawaii", "Narita", "Orlando", "Kyoto", "Hakone", "Osaka", "Kamaura", "Yokohama", "Ishigaki", "Shikoku" };
 
             Console.WriteLine(vacaSpots[0] + " " +  vacaSpots[9]);
 
             int[] childrenAge = { 3, 6, 1 };
 
-            Console.WriteLine("King's age: " + childrenAge[0]);
-            Console.WriteLine("Journee's age: " + childrenAge[1]);
+            Console.WriteLine("Caleb's age: " + childrenAge[0]);
+            Console.WriteLine("June's age: " + childrenAge[1]);
             Console.WriteLine("Autumn's age: " + childrenAge[2]);
 
             char[] classMateFirstLetter = { 'A', 'S', 'L', 'N' };
