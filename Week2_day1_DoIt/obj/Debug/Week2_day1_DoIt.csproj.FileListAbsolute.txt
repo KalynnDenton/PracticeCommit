@@ -1,0 +1,5 @@
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Week2_day1_DoIt\Week2_day1_DoIt\bin\Debug\Week2_day1_DoIt.exe.config
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Week2_day1_DoIt\Week2_day1_DoIt\bin\Debug\Week2_day1_DoIt.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Week2_day1_DoIt\Week2_day1_DoIt\bin\Debug\Week2_day1_DoIt.pdb
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Week2_day1_DoIt\Week2_day1_DoIt\obj\Debug\Week2_day1_DoIt.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Week2_day1_DoIt\Week2_day1_DoIt\obj\Debug\Week2_day1_DoIt.pdb
