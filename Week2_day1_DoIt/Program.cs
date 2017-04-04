@@ -45,6 +45,7 @@ namespace Week2_day1_DoIt
             foreach(int studentAge in studentAges)
             {
                 Console.WriteLine(studentAge);
+                
             }
 
             Console.WriteLine("-------------------------------------");
@@ -59,6 +60,18 @@ namespace Week2_day1_DoIt
                 
             }
             Console.WriteLine("---------------------------------------");
+
+            char[] myLastName = { 'D', 'E', 'N', 'T', 'O', 'N' };
+
+            Console.WriteLine(myLastName.Length);
+
+            Console.WriteLine("-------------------------------------");
+
+            string[] myArray = { "something", "something else", "something more", "something less" };
+
+            Console.WriteLine(myArray[myArray.Length - 2]);
+
+
         }
     }
 }
